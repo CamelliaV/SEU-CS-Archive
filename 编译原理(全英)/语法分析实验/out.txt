@@ -1,0 +1,18 @@
+step     stack    input    prod    
+0        $E       i*i+i$           
+1        $E'T     i*i+i$   E->TE'  
+2        $E'T'F   i*i+i$   T->FT'  
+3        $E'T'i   i*i+i$   F->i    
+4        $E'T'    *i+i$            
+5        $E'T'F*  *i+i$    T'->*FT'
+6        $E'T'F   i+i$             
+7        $E'T'i   i+i$     F->i    
+8        $E'T'    +i$              
+9        $E'      +i$      T'->ε   
+10       $E'T+    +i$      E'->+TE'
+11       $E'T     i$               
+12       $E'T'F   i$       T->FT'  
+13       $E'T'i   i$       F->i    
+14       $E'T'    $                
+15       $E'      $        T'->ε   
+16       $        $        E'->ε   

@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/BackButton.png</file>
+        <file>res/BackButtonSelected.png</file>
+        <file>res/BoardNode(1).png</file>
+        <file>res/butterfly.png</file>
+        <file>res/butterfly1.png</file>
+        <file>res/down.png</file>
+        <file>res/Frame.jpg</file>
+        <file>res/LevelCompletedDialogBg.png</file>
+        <file>res/up.png</file>
+        <file>res/huaji_soviet.jpg</file>
+        <file>res/ARIMA.png</file>
+        <file>res/Decision tree.png</file>
+        <file>res/KProperty.png</file>
+        <file>res/Layers.png</file>
+        <file>res/Variance.png</file>
+        <file>res/inform.wav</file>
+        <file>res/waterDrop.wav</file>
+        <file>res/Mozart.mp3</file>
+        <file>res/peach lady.mp3</file>
+    </qresource>
+</RCC>
